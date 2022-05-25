@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/caas_yitec_frontend/static/css/main.75e7b235.css",
-    "main.js": "/caas_yitec_frontend/static/js/main.58ae0dfb.js",
-    "static/js/787.425557bb.chunk.js": "/caas_yitec_frontend/static/js/787.425557bb.chunk.js",
-    "static/media/logo.svg": "/caas_yitec_frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/caas_yitec_frontend/index.html",
-    "main.75e7b235.css.map": "/caas_yitec_frontend/static/css/main.75e7b235.css.map",
-    "main.58ae0dfb.js.map": "/caas_yitec_frontend/static/js/main.58ae0dfb.js.map",
-    "787.425557bb.chunk.js.map": "/caas_yitec_frontend/static/js/787.425557bb.chunk.js.map"
+    "main.css": "/cheat-aas/static/css/main.75e7b235.css",
+    "main.js": "/cheat-aas/static/js/main.58ae0dfb.js",
+    "static/js/787.425557bb.chunk.js": "/cheat-aas/static/js/787.425557bb.chunk.js",
+    "static/media/logo.svg": "/cheat-aas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cheat-aas/index.html",
+    "main.75e7b235.css.map": "/cheat-aas/static/css/main.75e7b235.css.map",
+    "main.58ae0dfb.js.map": "/cheat-aas/static/js/main.58ae0dfb.js.map",
+    "787.425557bb.chunk.js.map": "/cheat-aas/static/js/787.425557bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75e7b235.css",
